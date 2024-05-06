@@ -1,6 +1,6 @@
 {
   "name": "rand-password-generator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module provides a function to generate random passwords of specified length.",
   "main": "index.js",
   "repository":"https://github.com/Dmitry-Antonoff/rand-password-generator.git",
